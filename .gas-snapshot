@@ -1,0 +1,3 @@
+TestCallTypes:testContractStoresNewNumber() (gas: 31162)
+TestCallTypes:testFuzz_ViewNewNumberDoesNotModifyTheStateOfTheChain(uint256) (runs: 258, μ: 31572, ~: 32620)
+TestCallTypes:testViewNewNumberDoesNotModifyTheStateOfTheChain() (gas: 32576)
